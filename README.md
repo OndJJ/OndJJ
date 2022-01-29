@@ -24,4 +24,8 @@ Here are some ideas to get you started:
 [![PY](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](https://ondjj.github.io/)
 [![DJANGO](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=black)](https://ondjj.github.io/)
 [![MYSQL](https://img.shields.io/badge/MYsql-4479A1?style=flat-square&logo=MYsql&logoColor=black)](https://ondjj.github.io/)
+  
+⚡Completion⚡
+ [![GIS](https://img.shields.io/badge/GIS-41454A?style=flat-square&logo=GIS&logoColor=black)](https://ondjj.github.io/)
+ [![UAV](https://img.shields.io/badge/UAV-4285F4?style=flat-square&logo=UAV_Surveyor&logoColor=black)](https://ondjj.github.io/)
 </div>
