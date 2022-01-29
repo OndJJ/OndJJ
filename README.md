@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <br>
 ⚡Completion⚡
 <br>
-[![GIS](https://img.shields.io/badge/GIS-41454A?style=flat-square&logo=GIS&logoColor=black)](https://ondjj.github.io/)
-[![UAV](https://img.shields.io/badge/UAV-4285F4?style=flat-square&logo=UAV_Surveyor&logoColor=black)](https://ondjj.github.io/)
+[![Gwangju_AI_School](https://img.shields.io/badge/GIS-41454A?style=flat-square&logo=GIS&logoColor=black)](https://ondjj.github.io/)
+[![UAV_Surveyor](https://img.shields.io/badge/UAV-4285F4?style=flat-square&logo=UAV_Surveyor&logoColor=black)](https://ondjj.github.io/)
 </div>
