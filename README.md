@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Personal%20Records&fontSize=80)
 
+<div align=center>
 ## 🌱 t e c h 🌱
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://ondjj.github.io/)
@@ -22,3 +23,4 @@ Here are some ideas to get you started:
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=black)](https://ondjj.github.io/)
 [![PY](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](https://ondjj.github.io/)
 [![DJANGO](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=black)](https://ondjj.github.io/)
+</div>
