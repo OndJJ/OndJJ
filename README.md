@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 [![DJANGO](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=black)](https://ondjj.github.io/)
 [![MYSQL](https://img.shields.io/badge/MYsql-4479A1?style=flat-square&logo=MYsql&logoColor=black)](https://ondjj.github.io/)
 <br>
+<br>
 ⚡Completion⚡
 <br>
-[![Gwangju_AI_School](https://img.shields.io/badge/GIS-41454A?style=flat-square&logo=GIS&logoColor=black)](https://ondjj.github.io/)
-[![UAV_Surveyor](https://img.shields.io/badge/UAV-4285F4?style=flat-square&logo=UAV_Surveyor&logoColor=black)](https://ondjj.github.io/)
+[![Gwangju_AI_School](https://img.shields.io/badge/Gwangju_AI_School-41454A?style=flat-square&logo=GIS&logoColor=black)](https://ondjj.github.io/)
+[![UAV_Surveyor](https://img.shields.io/badge/UAV_Surveyor-4285F4?style=flat-square&logo=UAV_Surveyor&logoColor=black)](https://ondjj.github.io/)
 </div>
