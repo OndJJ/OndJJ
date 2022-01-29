@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=black)](https://ondjj.github.io/)
 [![PY](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](https://ondjj.github.io/)
 [![DJANGO](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=black)](https://ondjj.github.io/)
-[![MYSQL](https://img.shields.io/badge/MYsql-4479A1?style=flat-square&logo=MYsql&logoColor=black)](https://ondjj.github.io/)
+[![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=black)](https://ondjj.github.io/)
 <br>
 <br>
 ⚡Completion⚡
