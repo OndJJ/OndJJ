@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 [![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=black)](https://ondjj.github.io/)
 
 
-🔭 skill 🔭
+🌱 skill 🌱
+<br>
 [![DJANGO](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=black)](https://ondjj.github.io/)
 [![SPRING](https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=SPRING&logoColor=black)](https://ondjj.github.io/)
 [![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=black)](https://ondjj.github.io/)
