@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Personal%20Records&fontSize=80)
 
 <div align=center>
-🌱 t e c h 🌱
+🌱 Language 🌱
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://ondjj.github.io/)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=black)](https://ondjj.github.io/)
@@ -24,8 +24,14 @@ Here are some ideas to get you started:
 [![PY](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](https://ondjj.github.io/)
 [![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=black)](https://ondjj.github.io/)
 
+<br>
+ 🔭 skill 🔭
 [![DJANGO](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=black)](https://ondjj.github.io/)
+[![SPRING](https://img.shields.io/badge/SPRING-#6DB33F?style=flat-square&logo=SPRING&logoColor=black)](https://ondjj.github.io/)
 [![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=black)](https://ondjj.github.io/)
+
+  
+  
 <br>
 <br>
 ⚡Completion⚡
