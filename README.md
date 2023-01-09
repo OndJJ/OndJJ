@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=black)](https://ondjj.github.io/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=black)](https://ondjj.github.io/)
 [![PY](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](https://ondjj.github.io/)
+[![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logoColor=white](https://ondjj.github.io/)
+
 [![DJANGO](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=black)](https://ondjj.github.io/)
 [![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=black)](https://ondjj.github.io/)
 <br>
