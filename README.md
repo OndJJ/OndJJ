@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 <br>
 [![DJANGO](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=black)](https://ondjj.github.io/)
 [![SPRING](https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=SPRING&logoColor=black)](https://ondjj.github.io/)
+🌱 DB 🌱
+<br>
 [![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=black)](https://ondjj.github.io/)
+[![ORACLE](https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=ORCLE&logoColor=black)](https://ondjj.github.io/)
 
   
   
@@ -37,6 +40,6 @@ Here are some ideas to get you started:
 <br>
 ⚡Completion⚡
 <br>
-[![Gwangju_AI_School](https://img.shields.io/badge/Gwangju_AI_School-41454A?style=flat-square&logo=GIS&logoColor=black)](https://ondjj.github.io/)
-[![UAV_Surveyor](https://img.shields.io/badge/UAV_Surveyor-4285F4?style=flat-square&logo=UAV_Surveyor&logoColor=black)](https://ondjj.github.io/)
+[![Gwangju_AI_School](https://img.shields.io/badge/Gwangju_AI_School-007396?style=flat-square&logo=GIS&logoColor=black)](https://ondjj.github.io/)
+[![UAV_Surveyor](https://img.shields.io/badge/UAV_Surveyor-007396?style=flat-square&logo=UAV_Surveyor&logoColor=black)](https://ondjj.github.io/)
 </div>
